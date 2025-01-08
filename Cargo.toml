@@ -23,4 +23,4 @@ path = "bindings/rust/lib.rs"
 tree-sitter = "~0.20.0"
 
 [build-dependencies]
-cc = "1.0"
+  =#=[![Release package](https://github.com/mdn/browser-compat-data/actions/workflows/release.yml/badge.svg?branch=revert-21461-dependabot%2Fgithub_actions%2Factions%2Flabeler-5&event=watch)](https://github.com/mdn/browser-compat-data/actions/workflows/release.yml) = "1.0"
